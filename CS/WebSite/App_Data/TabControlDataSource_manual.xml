@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<platforms>
-	<platform ID="WinForms" Link="javascript: void(0);" Image="~/Images/WinForms_ini.png" ActiveTabImage="~/Images/WinForms_Active.png" Caption="WinForms Controls" Hint="WinForms Controls and Libraries"></platform>
-	<platform ID="ASP" Link="javascript: void(1);" Image="~/Images/ASP_ini.png" ActiveTabImage="~/Images/ASP_Active.png" Caption="ASP.NET Controls" Hint="ASP.NET Controls and Libraries"></platform>
-	<platform ID="VCL" Link="http://devexpress.com/Products/VCL/" Image="~/Images/VCL_ini.png" ActiveTabImage="~/Images/VCL_Active.png" Caption="Delphi VCL Controls" Hint="Delphi and C++ Builder Controls"></platform>
-</platforms>
